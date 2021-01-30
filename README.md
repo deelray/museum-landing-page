@@ -4,8 +4,7 @@
 
 [Design](https://www.figma.com/file/i8XiqSgs44QEVPHuMbkNO2/museum-prototype?node-id=323%3A1957)
 
-Technologies:
-HTML5/CSS3/Sass/BEM methodology/Figma
+Technologies: HTML5, CSS3, Sass, BEM methodology, Figma
 
 Developed for:
 - desctop(1280px)
