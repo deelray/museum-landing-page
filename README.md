@@ -1,6 +1,6 @@
 # Museum landing page
 
-[Preview](https://deelray.github.io/museum/)
+[Preview](https://deelray.github.io/museum-landing-page/)
 
 [Design](https://www.figma.com/file/i8XiqSgs44QEVPHuMbkNO2/museum-prototype?node-id=323%3A1957)
 
